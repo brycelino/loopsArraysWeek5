@@ -1,0 +1,14 @@
+C:\Users\bryce\source\c#\loopsWeek5\bin\Debug\netcoreapp3.1\loopsWeek5.exe
+C:\Users\bryce\source\c#\loopsWeek5\bin\Debug\netcoreapp3.1\loopsWeek5.deps.json
+C:\Users\bryce\source\c#\loopsWeek5\bin\Debug\netcoreapp3.1\loopsWeek5.runtimeconfig.json
+C:\Users\bryce\source\c#\loopsWeek5\bin\Debug\netcoreapp3.1\loopsWeek5.runtimeconfig.dev.json
+C:\Users\bryce\source\c#\loopsWeek5\bin\Debug\netcoreapp3.1\loopsWeek5.dll
+C:\Users\bryce\source\c#\loopsWeek5\bin\Debug\netcoreapp3.1\loopsWeek5.pdb
+C:\Users\bryce\source\c#\loopsWeek5\obj\Debug\netcoreapp3.1\loopsWeek5.csproj.AssemblyReference.cache
+C:\Users\bryce\source\c#\loopsWeek5\obj\Debug\netcoreapp3.1\loopsWeek5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryce\source\c#\loopsWeek5\obj\Debug\netcoreapp3.1\loopsWeek5.AssemblyInfoInputs.cache
+C:\Users\bryce\source\c#\loopsWeek5\obj\Debug\netcoreapp3.1\loopsWeek5.AssemblyInfo.cs
+C:\Users\bryce\source\c#\loopsWeek5\obj\Debug\netcoreapp3.1\loopsWeek5.csproj.CoreCompileInputs.cache
+C:\Users\bryce\source\c#\loopsWeek5\obj\Debug\netcoreapp3.1\loopsWeek5.dll
+C:\Users\bryce\source\c#\loopsWeek5\obj\Debug\netcoreapp3.1\loopsWeek5.pdb
+C:\Users\bryce\source\c#\loopsWeek5\obj\Debug\netcoreapp3.1\loopsWeek5.genruntimeconfig.cache
